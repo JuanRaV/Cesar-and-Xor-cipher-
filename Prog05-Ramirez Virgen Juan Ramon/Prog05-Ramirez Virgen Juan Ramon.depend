@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1668129977 source:c:\users\juanr_axzldpc\onedrive\documentos\3er semestre\datos 2\prog05-ramirez virgen juan ramon\main.cpp
+	<iostream>
+	<Cipher.h>
+
+1668128962 source:c:\users\juanr_axzldpc\onedrive\documentos\3er semestre\datos 2\prog05-ramirez virgen juan ramon\src\cipher.cpp
+	"Cipher.h"
+	<iostream>
+	<sstream>
+	<iomanip>
+	<fstream>
+
+1668128948 c:\users\juanr_axzldpc\onedrive\documentos\3er semestre\datos 2\prog05-ramirez virgen juan ramon\include\cipher.h
+	<iostream>
+

@@ -1,2 +1,2 @@
-# Cesar-and-Xor-cipher-
+# Cesar and Xor cipher in in <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 This program receives a string, which goes through two encryptions. Once this process is completed the result is saved in a text file. The program has the option of recovering this message and doing the two decryption processes, resulting in the initial message
